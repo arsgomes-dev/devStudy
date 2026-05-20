@@ -31,9 +31,7 @@ Ao longo dos projetos, estou trabalhando com as seguintes tecnologias:
 
 ```text
 /
-├── projeto-01/
-├── projeto-02/
-├── projeto-03/
+├── AI_Copilots/
 └── README.md
 ```
 
@@ -43,6 +41,7 @@ Cada pasta poderá conter um projeto independente, com seus próprios arquivos, 
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
+| AI Copilots | Prompts para configurações de copilotos | Modos: ASK, Agent, Plan, Study |
 | Em breve | Novos projetos serão adicionados conforme avanço no curso | PHP, CSS, JavaScript, Bootstrap, MySQL, Node.js |
 
 ## Sobre o Aprendizado
